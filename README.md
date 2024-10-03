@@ -1,2 +1,5 @@
-# .github
-Public repo for GEOTEK Baris org
+# GEOTEK Baris
+
+
+### Organization Info:
+- Maintainer: Baris Aydemir[github.com/metalun4]
