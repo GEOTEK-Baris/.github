@@ -2,4 +2,4 @@
 
 
 ### Organization Info:
-- Maintainer: Baris Aydemir[github.com/metalun4]
+- Maintainer: [Baris Aydemir](github.com/metalun4)
